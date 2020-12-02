@@ -6,7 +6,7 @@ jobs:
   hello:
     runs-on: [self-hosted, default]
     steps:
-    - run: echo 'hello world, again'
+    - run: echo 'hello world'
 
   hello-docker:
     runs-on: self-hosted
