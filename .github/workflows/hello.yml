@@ -6,4 +6,4 @@ jobs:
   hello:
     runs-on: [self-hosted, default]
     steps:
-    - run: echo 'hello world'
+    - run: echo 'hello world, again'
